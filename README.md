@@ -6,17 +6,17 @@
 - 면허증 주인과 실제 운전자가 동일인인지 식별  
 ------
 ### 연구 방법
-![연구방법](https://user-images.githubusercontent.com/108534619/230791427-2fafd8fe-9898-4d47-85e9-f51cbb83ff90.png)  
-![연구방법2](https://user-images.githubusercontent.com/108534619/230791488-2f540c1a-f8a4-491d-a40d-2bfe5ddb21c2.png")  
-![연구방법3](https://user-images.githubusercontent.com/108534619/230791494-6d629de3-31bc-4a59-8584-c1a535be649b.png")  
+<img width="50%" src="https://user-images.githubusercontent.com/108534619/230791427-2fafd8fe-9898-4d47-85e9-f51cbb83ff90.png"/>  
+<img width="50%" src="https://user-images.githubusercontent.com/108534619/230791488-2f540c1a-f8a4-491d-a40d-2bfe5ddb21c2.png"/>    
+<img width="50%" src="https://user-images.githubusercontent.com/108534619/230791494-6d629de3-31bc-4a59-8584-c1a535be649b.png"/>  
 
 ----
 ### 연구 결과
 1. 아이돌 식별 결과  
-![driver_result](https://user-images.githubusercontent.com/108534619/230791491-5d432517-8d74-4ea2-aea0-a5ad6f1b0d58.png")  
+<img width="50%" src="https://user-images.githubusercontent.com/108534619/230791491-5d432517-8d74-4ea2-aea0-a5ad6f1b0d58.png"/>    
 
 2. 운전자 식별 결과  
-![idol_result](https://user-images.githubusercontent.com/108534619/230791492-63f3957d-1c0a-445b-ab0f-3464fcb19089.png")  
+<img width="50%" src="https://user-images.githubusercontent.com/108534619/230791492-63f3957d-1c0a-445b-ab0f-3464fcb19089.png"/>    
 
 - 동일인 식별을 위한 kNN 알고리즘 구현
 - 학습이 굉장히 빠르게 진행됨(idol(100명) training시 6m 24s, 운전자 training시 3s)  
